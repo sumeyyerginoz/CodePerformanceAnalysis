@@ -1,5 +1,4 @@
 # CodePerformanceAnalysis
-# OpenCV Camera Capture and Image Processing
 
 This Python code demonstrates how to capture an image from the default camera of the computer, apply image processing using OpenCV, and display the processed image on the screen.
 
